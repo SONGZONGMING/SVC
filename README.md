@@ -20,3 +20,21 @@ so-vits-svc(SoftVC VITS Singing Voice Conversion)とUVR5(Ultimate Vocal Remover)
 # 音声素材
 
 あるVUPの許可を貰った。そのVUP提供した音声ファイルで、データセットを訓練した。音声素材の使用範囲は：研究目的だけ
+
+# 内容説明
+
+样本1_01.wav　は音声提供者の一部分の音声素材でした。
+
+中国語.wav　は訓練した音声モデルで、テキスト「文字入力で音声入力ではなく」から推理生成した中国語のAI音声
+
+84800合成 混音 1.wav　は訓練した音声モデルで、音楽Ｂ《5_20AM》を入力、推理生成した歌音声。「2分37秒後は空白」
+
+音楽Ｂ《5_20AM》　はサンプルとした音楽でした。
+
+# モデル
+
+サイズの原因、Google Drivehttpsにアプロードした。
+
+https://drive.google.com/drive/folders/1lmT3LGycNdTi8Lycg55kQ4pLomFFnkbS?usp=sharing
+
+
