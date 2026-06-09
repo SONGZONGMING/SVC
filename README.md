@@ -31,6 +31,8 @@ so-vits-svc(SoftVC VITS Singing Voice Conversion)とUVR5(Ultimate Vocal Remover)
 
 音楽Ｂ《5_20AM》　はサンプルとした音楽でした。
 
+人の声や歌声を別の音色に変換することができる。簡単に言うと、入力された音声のメロディ、リズム、発音内容を保ったまま、別の学習済み音声によって歌われているように聞こえる音声へ変換できる。
+
 # モデル
 
 サイズの原因、Google Drivehttpsにアプロードした。
