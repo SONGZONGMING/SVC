@@ -15,7 +15,7 @@ so-vits-svc(SoftVC VITS Singing Voice Conversion)とUVR5(Ultimate Vocal Remover)
 
 # モデルの注意点
 
-音声モデルを使って、音声生成したい場合：so-vits-svcを実装することは必要だ。バージョンはSo-VITS-SVC 4.1
+音声モデルを使って、音声生成する場合：so-vits-svcを実装することは必要だ。バージョンはSo-VITS-SVC 4.1
 
 # 音声素材
 
