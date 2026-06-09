@@ -37,6 +37,12 @@ so-vits-svc(SoftVC VITS Singing Voice Conversion)とUVR5(Ultimate Vocal Remover)
 
 https://drive.google.com/drive/folders/1lmT3LGycNdTi8Lycg55kQ4pLomFFnkbS?usp=sharing
 
-# モデルの使用方法「もしダウンロードしたバージョンが以下の機能はない場合、モデルファイルをそれぞれ対応のフォルダに入れて使用も可能」
+# モデルの使用方法
 
+「もしダウンロードしたバージョンが以下の機能はない場合、モデルファイルをそれぞれ対応のフォルダに入れて使用も可能」
 
+![截图](SVC1.png)
+
+![截图](SVC1.png)
+
+![截图](SVC1.png)
